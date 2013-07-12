@@ -1,0 +1,10 @@
+{
+  "name": "packery",
+  "repo": "yyolk/packery",
+  "description": "bin-packing layout library",
+  "version": "1.0.6",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "http://packery.metafizzy.co/license.html"
+}
